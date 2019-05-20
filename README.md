@@ -1,1 +1,1 @@
-## Univariate Linear Regression
+## Supervised Learning : Gradient Descent 
