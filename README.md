@@ -1,3 +1,3 @@
 ## Supervised Learning : Gradient Descent 
 
-Implementing Bivariate Linear Regression using Gradient Descent algorithm.
+Implementing univariate regression using Gradient Descent algorithm.
